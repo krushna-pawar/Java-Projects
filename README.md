@@ -1,5 +1,5 @@
 # Java-Projects
-This repository contains **all my Java programs**, from the very first "Hello World" to more advanced logic-based applications.  
+This repository contains **all my Java programs**, from the very first "Hello World" type to more advanced logic-based applications.  
 It's a personal learning log as I grow from basics to expert-level Java development.
 
 ---
