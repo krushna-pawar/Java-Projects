@@ -35,3 +35,18 @@ Uses long type to support very large number input safely.
 ## EMICalculator
 > Calculates monthly EMI based on loan amount, annual interest rate, and tenure.
 Uses the standard EMI formula with compound interest applied monthly.
+
+## IsItCapital
+> Type a letter, and this program tells you if it’s uppercase or lowercase. Simple.
+
+## FibonacciSeriesCalculator
+> Calculates the Fibonacci number at the position you enter. Uses a loop to get the result.
+
+## CountingOccurrences
+> Enter a number, and it counts how many times each digit (0–9) appears. Basic and useful.
+
+## ReverseNumbers
+> Takes a number and prints its reverse. Simple digit manipulation with a loop.
+
+## BasicCalc
+> A basic calculator that keeps running until you exit with 'x'. Supports addition, subtraction, multiplication, division (with zero check), and modulo.
